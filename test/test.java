@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class test
+public class renamedmyself
 {
     // instance variables - replace the example below with your own
     private int x;
@@ -13,7 +13,7 @@ public class test
     /**
      * Constructor for objects of class test
      */
-    public test()
+    public renamedmyself()
     {
         // initialise instance variables
         x = 0;
