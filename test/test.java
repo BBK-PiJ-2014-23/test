@@ -30,4 +30,8 @@ public class test
         // put your code here
         return x + y;
     }
+    
+    public void test() {
+        
+    }
 }
